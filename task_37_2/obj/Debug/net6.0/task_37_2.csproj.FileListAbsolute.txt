@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\bin\Debug\net6.0\task_37_2.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\bin\Debug\net6.0\task_37_2.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\bin\Debug\net6.0\task_37_2.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\bin\Debug\net6.0\task_37_2.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\bin\Debug\net6.0\task_37_2.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\refint\task_37_2.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\task_37_2.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_5\task_37_2\obj\Debug\net6.0\ref\task_37_2.dll
